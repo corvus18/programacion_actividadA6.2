@@ -1,0 +1,27 @@
+{
+  "1": {
+    "customer": {
+      "customer_id": "1",
+      "name": "Felipe de Jesus",
+      "email": "felipe18@gmail.com"
+    },
+    "reservations": [
+      {
+        "hotel_id": "4",
+        "reservation_id": 1
+      },
+      {
+        "hotel_id": "5",
+        "reservation_id": 2
+      }
+    ]
+  },
+  "2": {
+    "customer": {
+      "customer_id": "2",
+      "name": "Sarah",
+      "email": "sarah@gmail.com"
+    },
+    "reservations": []
+  }
+}

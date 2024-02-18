@@ -1,0 +1,12 @@
+{
+  "1": {
+    "customer_id": "1",
+    "name": "Felipe de Jesus",
+    "email": "felipe18@gmail.com"
+  },
+  "2": {
+    "customer_id": "2",
+    "name": "Sarah",
+    "email": "sarah@gmail.com"
+  }
+}

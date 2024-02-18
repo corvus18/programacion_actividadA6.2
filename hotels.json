@@ -1,0 +1,16 @@
+{
+  "4": {
+    "hotel_id": 4,
+    "name": "fff",
+    "address": "OM333",
+    "rooms": 7,
+    "reservations": []
+  },
+  "5": {
+    "hotel_id": 5,
+    "name": "Paraiso 2",
+    "address": "Mochis333",
+    "rooms": 10,
+    "reservations": []
+  }
+}
